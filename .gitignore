@@ -1,0 +1,7 @@
+#java, intellji-idea and maven stuff
+.idea
+target
+*iml
+*.jar
+
+
